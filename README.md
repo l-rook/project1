@@ -1,3 +1,5 @@
+[Game](https://l-rook.github.io/project1/)
+
 # Pseudocode
 
 ## Data structure
