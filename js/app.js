@@ -60,8 +60,6 @@ let move1Damage
 let move2Damage
 let move3Damage
 let move4Damage
-let fetchData
-let opponentFetchData
 function random(min,max) {
     return Math.floor((Math.random())*(max-min+1))+min;
 }
